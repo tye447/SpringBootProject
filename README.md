@@ -4,7 +4,7 @@
 
 ### 1. Clone the application
 
-	git clone https://github.com/tianjianye/Angular-Material.git
+	git clone https://github.com/tianjianye/SpringBootProject.git
 
 ### 2. Create Mysql database
 
