@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-import static com.example.util.Util.getNullPropertyNames;
+import static com.example.springbootproject.util.Util.getNullPropertyNames;
 
 @Service
 public class ClientService {

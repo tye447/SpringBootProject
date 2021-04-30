@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-import static com.example.util.Util.getNullPropertyNames;
+import static com.example.springbootproject.util.Util.getNullPropertyNames;
 
 @Service
 @Transactional(rollbackFor = Exception.class)

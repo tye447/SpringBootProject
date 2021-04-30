@@ -2,7 +2,7 @@ package com.example.springbootproject.model;
 
 public class EntityFactory {
     public static Object getEntity(String entityName){
-        Object object=new Object();
+        Object object;
         switch (entityName){
             case "Client": object=new Client();break;
             case "Commande": object=new Commande();break;

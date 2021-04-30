@@ -1,10 +1,10 @@
-# SpringBootProject
+# springboot-orders-project
 
 ## Steps to Setup
 
 ### 1. Clone the application
 
-	git clone https://github.com/tianjianye/SpringBootProject.git
+	git clone https://github.com/tye447/springboot-orders-project.git
 
 ### 2. Create Mysql database
 
